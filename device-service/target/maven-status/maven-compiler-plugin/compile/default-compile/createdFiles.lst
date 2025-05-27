@@ -1,0 +1,6 @@
+com/telecom/platform/device/domain/NetworkDevice$NetworkDeviceBuilder.class
+com/telecom/platform/device/domain/NetworkDevice.class
+com/telecom/platform/device/domain/DeviceType.class
+com/telecom/platform/device/repository/NetworkDeviceRepository.class
+com/telecom/platform/device/domain/DeviceStatus.class
+com/telecom/platform/device/DeviceServiceApplication.class

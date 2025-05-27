@@ -1,0 +1,6 @@
+/Users/haorong/Dev/git/Telecom-Service-Platform/device-service/src/main/java/com/telecom/platform/device/DeviceServiceApplication.java
+/Users/haorong/Dev/git/Telecom-Service-Platform/device-service/src/main/java/com/telecom/platform/device/domain/DeviceType.java
+/Users/haorong/Dev/git/Telecom-Service-Platform/device-service/src/main/java/com/telecom/platform/device/repository/NetworkDeviceRepository.java
+/Users/haorong/Dev/git/Telecom-Service-Platform/device-service/src/main/java/com/telecom/platform/device/domain/DeviceStatus.java
+/Users/haorong/Dev/git/Telecom-Service-Platform/device-service/src/main/java/com/telecom/platform/device/controller/NetworkDeviceController.java
+/Users/haorong/Dev/git/Telecom-Service-Platform/device-service/src/main/java/com/telecom/platform/device/domain/NetworkDevice.java
