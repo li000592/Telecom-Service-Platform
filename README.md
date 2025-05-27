@@ -12,9 +12,9 @@ Enterprise-grade Network Service Platform for telecommunications providers
 - ☁️ Cloud-Native Kubernetes Deployment
 
 ## 🛠️ Tech Stack
-**Backend:** Java 17, Spring Boot 3.x, Spring WebFlux, PostgreSQL, Redis, Kafka
-**Frontend:** React 18, TypeScript, MUI, Redux Toolkit
-**DevOps:** Docker, Kubernetes, Maven, TestContainers
+- **Backend:** Java 17, Spring Boot 3.x, Spring WebFlux, PostgreSQL, Redis, Kafka
+- **Frontend:** React 18, TypeScript, MUI, Redux Toolkit
+- **DevOps:** Docker, Kubernetes, Maven, TestContainers
 
 ## 🏃‍♂️ Quick Start
 ```bash
