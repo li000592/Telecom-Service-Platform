@@ -19,7 +19,7 @@ Enterprise-grade Network Service Platform for telecommunications providers
 ## 🏃‍♂️ Quick Start
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/telecom-service-platform.git
+git clone https://github.com/li000592/telecom-service-platform.git
 
 # Start with Docker Compose
 docker-compose up -d
