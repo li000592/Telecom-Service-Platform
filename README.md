@@ -5,10 +5,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
-## 🎯 Enterprise Software Engineering Skills Demonstrated
-
-This project showcases modern software engineering practices for telecommunications:
-
 ### ✅ **Core Technical Skills Demonstrated**
 - **Java 17** with modern features (Stream API, Lambda expressions, Concurrency API)
 - **Spring Boot 3.x** microservices architecture
