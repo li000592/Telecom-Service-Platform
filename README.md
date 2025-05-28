@@ -5,10 +5,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
-> **Enterprise-grade Network Service Platform built for telecommunications providers**
-
-A comprehensive microservices-based platform for network device management, service assurance, and automation. Designed to demonstrate modern software engineering practices for telecommunications domain applications.
-
 ## 🎯 Enterprise Software Engineering Skills Demonstrated
 
 This project showcases modern software engineering practices for telecommunications:
